@@ -1,0 +1,25 @@
+.post {
+  width: 300px;
+  margin: 100px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.app {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border-color: aquamarine;
+  cursor: pointer;
+}
+
+.botoes {
+  display: flex;
+  justify-content: space-between;
+}

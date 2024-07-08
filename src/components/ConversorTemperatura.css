@@ -1,0 +1,16 @@
+.conversor {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 20px;
+  border: 1px solid #222;
+  margin: auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.conversor input {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid aquamarine;
+}
